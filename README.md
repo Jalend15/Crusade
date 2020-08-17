@@ -1,2 +1,2 @@
 # Crusade
-Code for path detection in a maze based on frequency of LED Blinking
+The program takes real-time pictures of the vehicle, understanding its direction of projection, and guides to path based on the maze
