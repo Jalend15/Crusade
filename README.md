@@ -1,2 +1,2 @@
 # Crusade
-The program takes real-time pictures of the vehicle, understanding its direction of projection, and guides to path based on the maze
+The program takes real-time pictures of the path, and guides the bot to move according to the white road and black walls.
