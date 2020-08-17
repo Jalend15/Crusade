@@ -1,2 +1,2 @@
 # Crusade
-image procssing and arduino
+Code for path detection in a maze based on frequency of LED Blinking
